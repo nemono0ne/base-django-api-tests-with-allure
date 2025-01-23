@@ -1,0 +1,1 @@
+# base-django-api-tests-with-allure
